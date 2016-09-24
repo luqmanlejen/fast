@@ -31,12 +31,12 @@
         <div class="portfolio-isotope">
             <div class="box one-third column photography motion-graphics">
                 <div class="gallery-item">
-                    <a class='iframe group1'  href="project.html" title="">
+                    <a class='iframe group1'  href="portfolio/project_001.php" title="">
                         <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/17.jpg" alt="" />
+                            <img src="img/Agrobank Kempen Festival @ Putrajaya/Picture10.png" alt=""/>
                             <div class="mask1"></div>
                             <div class="gallery-text-down">
-                                <h6>Motion Graphics</h6>
+                                <h6>Agrobank Kempen <br>Festival @ Putrajaya</h6>
                             </div>
                         </div>	
                     </a>
@@ -44,12 +44,12 @@
             </div>
             <div class="box one-third column illustration web-design">
                 <div class="gallery-item">
-                    <a class='iframe group1'  href="project1.html" title="">
+                    <a class='iframe group1'  href="portfolio/project_002.php" title="">
                         <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/2.jpg" alt="" />
+                            <img src="img/Lion Group Property The Vantage Launch @ Bandar Mahkota Cheras/Picture1.png" alt=""/>
                             <div class="mask1"></div>
                             <div class="gallery-text-down">
-                                <h6>Web Design</h6>
+                                <h6>Lion Group Property The Vantage Launch @ Bandar Mahkota Cheras</h6>
                             </div>
                         </div>	
                     </a>
@@ -57,121 +57,33 @@
             </div>
             <div class="box one-third column illustration motion-graphics">
                 <div class="gallery-item">
-                    <a class='iframe group1'  href="project.html" title="">
+                    <a class='iframe group1'  href="portfolio/project_003.php" title="">
                         <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/13.jpg" alt="" />
+                            <img src="img/U Mobile Hari Raya Open House 2015 @ Grand Hyatt/Picture9.png" alt=""/>
                             <div class="mask1"></div>
                             <div class="gallery-text-down">
-                                <h6>Illustration</h6>
+                                <h6>U Mobile Hari Raya Open <br> House 2015 <br> @ Grand Hyatt</h6>
                             </div>
                         </div>	
                     </a>
                 </div>
             </div>
-            <div class="box one-third column photography web-design">
+            <div class="box one-third column illustration motion-graphics">
                 <div class="gallery-item">
-                    <a class='iframe group1'  href="project1.html" title="">
+                    <a class='iframe group1'  href="portfolio/project_004.php" title="">
                         <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/4.jpg" alt="" />
+                            <img src="img/U Mobile Hari Raya Open House 2015 @ Grand Hyatt/Picture9.png" alt=""/>
                             <div class="mask1"></div>
                             <div class="gallery-text-down">
-                                <h6>Photography</h6>
+                                <h6>TOKIO MARINE A <br> Progressive Evening 2015 <br>at Westin Kuala Lumpur</h6>
                             </div>
                         </div>	
                     </a>
                 </div>
             </div>
-            <div class="box one-third column illustration">
-                <div class="gallery-item">
-                    <a class='iframe group1'  href="project.html" title="">
-                        <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/5.jpg" alt="" />
-                            <div class="mask1"></div>
-                            <div class="gallery-text-down">
-                                <h6>Illustration</h6>
-                            </div>
-                        </div>	
-                    </a>
-                </div>
-            </div>
-            <div class="box one-third column photography web-design">
-                <div class="gallery-item">
-                    <a class='iframe group1'  href="project1.html" title="">
-                        <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/14.jpg" alt="" />
-                            <div class="mask1"></div>
-                            <div class="gallery-text-down">
-                                <h6>Photography</h6>
-                            </div>
-                        </div>	
-                    </a>
-                </div>
-            </div>
-            <div class="box one-third column motion-graphics web-design">
-                <div class="gallery-item">
-                    <a class='iframe group1'  href="project.html" title="">
-                        <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/7.jpg" alt="" />
-                            <div class="mask1"></div>
-                            <div class="gallery-text-down">
-                                <h6>Motion Graphics</h6>
-                            </div>
-                        </div>	
-                    </a>
-                </div>
-            </div>
-            <div class="box one-third column illustration web-design">
-                <div class="gallery-item">
-                    <a class='iframe group1'  href="project1.html" title="">
-                        <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/8.jpg" alt="" />
-                            <div class="mask1"></div>
-                            <div class="gallery-text-down">
-                                <h6>Illustration</h6>
-                            </div>
-                        </div>	
-                    </a>
-                </div>
-            </div>
-            <div class="box one-third column web-design">
-                <div class="gallery-item">
-                    <a class='iframe group1'  href="project.html" title="">
-                        <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/15.jpg" alt="" />
-                            <div class="mask1"></div>
-                            <div class="gallery-text-down">
-                                <h6>Web Design</h6>
-                            </div>
-                        </div>	
-                    </a>
-                </div>
-            </div>
-            <div class="box one-third column illustration">
-                <div class="gallery-item">
-                    <a class='iframe group1'  href="project1.html" title="">
-                        <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/10.jpg" alt="" />
-                            <div class="mask1"></div>
-                            <div class="gallery-text-down">
-                                <h6>Illustration</h6>
-                            </div>
-                        </div>	
-                    </a>
-                </div>
-            </div>
-            <div class="box one-third column photography web-design">
-                <div class="gallery-item">
-                    <a class='iframe group1'  href="project.html" title="">
-                        <div class="gallery-item-mask">
-                            <img src="dist/images/gallery/1.jpg" alt="" />
-                            <div class="mask1"></div>
-                            <div class="gallery-text-down">
-                                <h6>Photography</h6>
-                            </div>
-                        </div>	
-                    </a>
-                </div>
-            </div>
+            
+            
+
         </div>		
     </div>
 </div>

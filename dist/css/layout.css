@@ -2703,7 +2703,7 @@ a.link-blog:hover{
 #singleproject{
 	position:relative;
 	width:100%;
-	background: url(../images/classy_fabric.png) repeat;
+	//background: url(../images/classy_fabric.png) repeat;
 	padding-bottom:300px;
 }
 #singleproject img{
@@ -2713,7 +2713,7 @@ a.link-blog:hover{
 .singleproject-top{
 	position:relative;
 	width:100%;
-	background: url(../images/classy_fabric.png) repeat;
+	//background: url(../images/classy_fabric.png) repeat;
 	padding-top:150px;
 }
 .singleproject-top img{
