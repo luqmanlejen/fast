@@ -15,11 +15,13 @@
 
         <!-- CSS
   ================================================== -->
+        <!--<link href="dist/css/lightbox.min.css" rel="stylesheet" type="text/css"/>-->
         <link rel="stylesheet" href="dist/css/base.css"/>
         <link rel="stylesheet" href="dist/css/skeleton.css"/>
         <link rel="stylesheet" href="dist/css/layout.css"/>
         <link rel="stylesheet" href="dist/css/colorbox.css"/>		
-
+        <link href="dist/css/lightbox.css" rel="stylesheet" type="text/css"/>
+        
         <!-- Favicons
         ================================================== -->
         <link rel="shortcut icon" href="dist/favicon.png">
@@ -29,10 +31,10 @@
     </head>
     <body class="preload">
 
-        <a href="http://www.bestcss.in/user/detail/Apollo-445" style="width:106px;height:92px;position:absolute;top:0px;right:0px;z-index:3999;text-indent:-9999px;background: url(images/css1.png) no-repeat;" target="_blank">Best CSS Web Gallery</a>
+<!--        <a href="http://www.bestcss.in/user/detail/Apollo-445" style="width:106px;height:92px;position:absolute;top:0px;right:0px;z-index:3999;text-indent:-9999px;background: url(images/css1.png) no-repeat;" target="_blank">Best CSS Web Gallery</a>
         <a href="http://www.csslight.com/user/detail/Apollo_3433" style="width:100px;height:38px;position:absolute;top:100px;right:0px;z-index:3999;text-indent:-9999px;background: url(images/css2.png) no-repeat;" target="_blank">CSS Light Web Gallery</a>
         <a href="http://csslight.com/user/detail/Apollo_3433" style="width:80px;height:56px;position:absolute;top:158px;right:0px;z-index:3999;text-indent:-9999px;background: url(images/css3.png) no-repeat;" target="_blank">CSS Light Web Gallery</a>
-        <a href="http://cssreel.com/Website/apollo" style="width:140px;height:46px;position:absolute;top:220px;right:0px;z-index:3999;text-indent:-9999px;background: url(images/css4.png) no-repeat;" target="_blank">CSS Reel Web Gallery</a>
+        <a href="http://cssreel.com/Website/apollo" style="width:140px;height:46px;position:absolute;top:220px;right:0px;z-index:3999;text-indent:-9999px;background: url(images/css4.png) no-repeat;" target="_blank">CSS Reel Web Gallery</a>-->
         <!-- Primary Page Layout
         ================================================== -->
 
@@ -152,7 +154,7 @@
 
 
             <div id="portfolio">
-                <?php include 'portfolio.php'; ?>
+                <?php include 'portfolio2.php'; ?>
             </div>
 
 
@@ -215,24 +217,26 @@
         <!-- JAVASCRIPT
     ================================================== -->
         <script type="text/javascript" src="dist/js/jquery.js"></script>
+        <script src="dist/js/lightbox-plus-jquery.js" type="text/javascript"></script>
         <script type="text/javascript" src="dist/js/modernizr.custom.js"></script>
         <script type="text/javascript" src="dist/js/jquery.nicescroll.min.js"></script>
         <script type="text/javascript" src="dist/js/jquery.sticky.js"></script>
         <script type="text/javascript" src="dist/js/jquery.parallax-1.1.3.js"></script>
         <script type="text/javascript" src="dist/js/jquery.localscroll-1.2.7-min.js"></script>
-        <script type="text/javascript" src="dist/js/jquery.scrollTo-1.4.2-min.js"></script>
+        <!--<script type="text/javascript" src="dist/js/jquery.scrollTo-1.4.2-min.js"></script>-->
         <script type="text/javascript" src="dist/js/classie.js"></script>
         <script type="text/javascript" src="dist/js/cbpScroller.js"></script>
         <script type="text/javascript" src="dist/js/jquery.knob.js"></script>
         <script type="text/javascript" src="dist/js/jquery.bxslider.min.js"></script>
         <script type="text/javascript" src="dist/js/jquery.easing.min.js"></script>
-        <script type="text/javascript" src="dist/js/jquery.typer.html"></script>
+        <!--<script type="text/javascript" src="dist/js/jquery.typer.html"></script>-->
         <script type="text/javascript" src="dist/js/jquery.isotope.min.js"></script>
         <script type="text/javascript" src="dist/js/jquery.masonry.min.js"></script>
         <script type="text/javascript" src="dist/js/jquery.colorbox.js"></script>
         <script type="text/javascript" src="dist/js/owl.carousel.min.js"></script>
         <script type="text/javascript" src="dist/js/jquery.mousewheel.js"></script>
-        <script type="text/javascript" src="dist/js/template.js"></script>  	  
+        <script type="text/javascript" src="dist/js/template.js"></script>  
+        <!--<script src="dist/js/lightbox-plus-jquery.min.js" type="text/javascript"></script>-->
         <!-- End Document
         ================================================== -->
     </body>
